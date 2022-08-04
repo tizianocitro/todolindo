@@ -1,0 +1,20 @@
+[
+  {
+    "title": "My first ElasticSearch todo",
+    "description": "My first ElasticSearch todo description",
+    "author": {
+      "email": "tc@gmail.com",
+      "firstName": "Tiziano",
+      "lastName": "Citro"
+    }
+  },
+  {
+    "title": "My second ElasticSearch todo",
+    "description": "My second ElasticSearch todo description",
+    "author": {
+      "email": "lc@gmail.com",
+      "firstName": "Lorenzo",
+      "lastName": " itro"
+    }
+  }
+]
