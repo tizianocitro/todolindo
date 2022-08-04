@@ -1,3 +1,4 @@
+// Try ioredis as dependency
 import {createClient} from "redis";
 
 const useRedis = async (url: string) => {
