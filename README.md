@@ -1,2 +1,2 @@
 # Todolindo
-A simple TODO application backend to play with some technologies in TypeScript.
+A simple TODO application to play with some technologies in TypeScript.
